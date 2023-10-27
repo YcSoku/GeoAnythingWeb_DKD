@@ -1,0 +1,22 @@
+{
+  "name": "geoanythingweb_dkd",
+  "version": "1.0.0",
+  "description": "The core of GeoAnythingWeb(GAW), Describable Knowing-Domain (DKD)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YcSoku/GeoAnythingWeb_DKD.git"
+  },
+  "keywords": [
+    "DKD"
+  ],
+  "author": "Soku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YcSoku/GeoAnythingWeb_DKD/issues"
+  },
+  "homepage": "https://github.com/YcSoku/GeoAnythingWeb_DKD#readme"
+}
